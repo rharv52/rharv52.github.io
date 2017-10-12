@@ -1,0 +1,27 @@
+h1 { 
+	color: black;
+	font-size: 500%;
+	font-weight: bold;
+	}
+body { 
+	background: lightblue;
+	font-size: 16pt;
+	font-family: 'Merriweather', serif;
+	padding: 10px}
+h2 {
+	color: black;
+	font-size: 300%;
+	font-weight: bold;
+	}
+nav li {
+	display: inline-block;
+	border: 2px solid black;
+	}
+	
+a { color: black }
+
+a:hover { color: indigo }
+
+img {width: 500px}
+.picture {float: left; margin: 30px}
+.article {clear: both}

@@ -1,0 +1,17 @@
+
+
+body { 
+	background: tan;
+	font-size: 16pt;
+	font-family: 'Merriweather', serif;
+	padding: 10px}
+
+img {width: 500px}	
+
+nav li {
+	display: inline-block;
+	border: 2px solid black}
+	
+a { color: black }
+
+a:hover { color: indigo }

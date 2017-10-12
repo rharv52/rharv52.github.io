@@ -1,0 +1,22 @@
+body { 
+	background: lightyellow;
+	font-size: 16pt;
+	font-family: 'Merriweather', serif;
+	padding: 10px}
+	
+.picture1 {float: left}
+.picture2 {float: right}
+.article1 {clear: both; }
+.picture3 {float: left; margin: 30px}
+.picture4 {float: right; margin: 30px}
+
+nav li {
+	display: inline-block;
+	border: 2px solid black;
+	}
+	
+a { color: black }
+
+a:hover { color: indigo }
+
+
